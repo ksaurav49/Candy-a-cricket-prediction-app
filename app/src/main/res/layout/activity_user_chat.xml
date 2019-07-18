@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserChat">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:id="@+id/tool">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            />
+
+    </android.support.design.widget.AppBarLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tool">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TRUST
+Trust is paramount when you are depositing your funds into someones account. How can you know they won't just keep it for themselves?
+
+Well thats our job. We have been in this game for quite some time now, and for the more serious actors this is not an issue.
+
+Ranking Trustworthiness
+First thing we check is make sure they have a license. The more serious licenses makes it very hard to be dishonest.
+
+This is one part we do not compromise on. If there are danger signs around a bookmaker you won't see a recommendation from us. The beautiful part about all the information on the Internet means its very hard to keep any major scams secret.
+
+If you read the detailed reviews, you can look at our thoughts for each seperate bookmaker.
+
+We also consider:
+
+Are there an unproportional amounts of complaints filed against the company
+How long have they been operating
+Are they partnered with serious organizations
+3rd party accreditation
+Is it a big operation that have invested in a multitude of gambling options
+How do other review sites rate them
+How do the people on the inside of the industry talk about them
+As in real life, trust is much harder to regain than lose.
+
+Most online betting sites are aware of this, its actually in their own self interest to maintain a good image.
+
+BONUSES AND PROMOTIONS
+There is no such thing as a free lunch. Or is there?
+
+Well this is actually extra money you get to play with.
+
+Most people are naturally sceptical when reading about amazing deals on the internett. But amazing deals do exist. And we have gathered some of them here for you.
+
+There might be some strings attached to the bonus money, but it is still much better than only betting with your own money.
+
+But whats in it for the bookie?
+
+This is one of the main ways betting sites attract new customers.
+
+In addition you have to play a certain amount before you can cash out any of your winnings.
+
+Look at it like this: The bookmaker gives you an incentive to try their site, they hope that you lose more money than they give you. Its up to you to prove them wrong!
+
+The thing you have to pay extra attention to is the terms and conditions. This is one of the few times you actually have to read them. There can be big differences from promotion to promotion and how you claim them.
+
+
+BANKING OPTIONS
+A pretty important part of your online experience. But most of these are restricted by local authorities and not by the bookmakers themselves.
+
+A lot of countries have restrictions on card transactions to gambling sites.
+
+Many prefer to use a separate e-wallet like Skrill or Neteller for their gambling needs.
+
+In general more banking options supported by the betting site is a positive and can make life easier for people struggling with depositing.
+
+Another important aspect to consider is how much time are you willing to wait before placing your bets. In general support will be very quick to try and help you with your deposits. And in most areas it shouldn't be too much of an hassle.
+
+Withdrawals however...
+
+Such a big portion of the complaints against bookmakers come in this phase of the user experience.
+
+Withdrawals are the first time your credentials are really checked, online betting sites have no problem letting you bet without proving who you are. Once you try to withdraw though that story changes quite dramatically.
+
+So remember to only use your own name address and credit card. And be prepared to upload documents proving who you are.
+
+If you want to be super safe, verify your account before you deposit any money.
+
+CUSTOMER SUPPORT
+If you are experiencing a problem. Do you meet a silent stone wall or do you instantly come into contact with a a friendly helpful individual?
+
+Or maybe even an bot quoting random parts of the FAQ to you.
+
+All of these are very possible in the online world of cricket betting. And can have a big impact on your experience.
+
+OTHER FEATURES
+If you for some reason want to dabble in anything other than cricket. Almost all the bookmakers we have reviewed have plenty of different sports, and most have a casino as well as other games you can try out.
+
+In this section we look at all the other opportunities you have to play. Be it poker, kabaddi or rummy.
+
+But we can mention that the total rating of a site is not formulaic. We base it on our total impression of the bookmaker. We have tried to make a list with the best on top and following in sectional order.
+
+Any bookmaker with 4,5 stars or higher rating is a very solid bookmaker and the differences between them are probably more up to personal preference and where in the world you live.
+
+
+Privacy:-
+
+*You can login anywhere anytime your Candy will always available in you account.
+* Your Candy will no longer available when once you delete your account.
+*Value of your candy is 0 until you exchange it into real money.
+*You are responsible if you lost candy or something happened to you we can't help you in that case.
+*If you have any technical problems then you can contact us.
+*Only technical support will be available for you.
+* Your id is fully protected with highly security system.
+* You can access your account in any other devices as well as.
+
+If you lost your account then only you are responsible for that."/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
